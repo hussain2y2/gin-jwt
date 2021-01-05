@@ -1,4 +1,4 @@
-## GIN GO-JWT
+## GIN-JWT
 
 This is a simple JWT auth module along with GIN micro framework, redis, and MySQL.
 
